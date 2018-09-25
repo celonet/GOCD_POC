@@ -1,0 +1,1 @@
+dotnet test --project ./test/GoCD_Poc.Test
